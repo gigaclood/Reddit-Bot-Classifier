@@ -6,3 +6,5 @@
 visuals/*
 /visuals/*
 dump/*
+env/*
+result.json
